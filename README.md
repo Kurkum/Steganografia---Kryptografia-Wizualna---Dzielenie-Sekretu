@@ -1,4 +1,5 @@
 # Steganografia---Kryptografia-Wizualna---Dzielenie-Sekretu
+
 Steganografia  - ukrywanie informacji w plikach graficznych (algorytm najmniej znaczącego bitu).
 
 Kryptografia Wizualna - ukrywanie sekretnej wiadomości/obrazu poprzez ukrycie go w obrazach "częściowych" (tutaj: dwóch).
